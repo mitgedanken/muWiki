@@ -1,2 +1,2 @@
 # muWiki
-Provides typical Wiki functions and not more. No Template-Engine, no DB-Engine, etc.
+Provides typical Wiki functions and nothing more. No Template-Engine, no DB-Engine, etc.
